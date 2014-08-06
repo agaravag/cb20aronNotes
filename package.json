@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/agaravag/cb20aronNotes/issues"
   },
-  "homepage": "https://github.com/agaravag/cb20aronNotes"
+  "homepage": "https://github.com/agaravag/cb20aronNotes",
+  "dependencies": {
+    "express": "^4.8.0"
+  }
 }
